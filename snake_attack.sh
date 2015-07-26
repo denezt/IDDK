@@ -1,7 +1,7 @@
 #!/bin/bash
 
 password_list="striker"
-wildcard="*"
+wildcard='*'
 
 if [ -e "$password_list"0 ];
 then
