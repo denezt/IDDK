@@ -13,8 +13,8 @@ PREQS:
 	Bash, Make, Medusa, 
 
 
-1) Copy all of the file using 'cp -a -v' to destination. 
-2) Run 'make test' to ensure that your system is capable to run the scripts.
+1) Copy all of the files using 'cp -a -v' to destination. 
+2) Run 'make test' to ensure that your system is able to run the scripts.
 3) (Unfinished)
 
 
